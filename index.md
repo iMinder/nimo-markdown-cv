@@ -12,24 +12,18 @@ homepage:
 include contact information from the front matter
 Supported arguments:
     - homepage: url, text
-    - phone
-    - email
+    - phone 13128843489
+    - email hw.zhao@foxmail.com
 -->
 {% include cv-contact.html %}
 
 ## 基本信息
 
 ### __西安电子科技大学__ `2009.08 - 2016.01`
-- 计算机科学与技术(硕士)
-- CET6
+- 计算机科学与技术(本科)
+- 计算机应用技术(硕士)
 
-### __Columbia University__ `2016.9 - 2018.5`
-```
-New York, NY
-```
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
-
+### __CET6__ 
 ### __Dickinson College__ `2013.9 - 2016.5`
 ```
 Carlisle, PA
@@ -50,7 +44,7 @@ __Wode Ni\*__, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Cra
 __Wode Ni__.<br> _Dickinson College Honors Theses. Paper 221._<br>
 [[PDF](assets/superres.pdf)]
 
-## Experience
+## 项目经历
 
 ### __Carnegie Mellon University, Research Experiences for Undergraduate__  `2017.5 - 2017.8`
 _Research Assistant_<br>
@@ -65,7 +59,7 @@ _Software Engineering Intern_<br>
 Worked on server-side web applications and server deployment tools.
 
 
-## Teaching
+## 技术
 
 Teaching Assistant, __Programming Languages and Translators (COMS 4115)__ `Columbia, 2017 - 2018` <br>
 Teaching Assistant, __Introduction to Java II (COMP 132)__ `Dickinson, 2016` <br>
@@ -73,7 +67,7 @@ Peer Tutor, __Data Structures and Problem Solving (COMP 232)__ `Dickinson, 2016`
 Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
 
 
-## Honors & Awards
+## 荣誉 & 获奖
 
 Phi Beta Kappa `Dickinson, 2018` <br>
 Excellence in Computer Science Award `Columbia, 2018` <br>
