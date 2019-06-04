@@ -3,8 +3,8 @@ layout: cv
 title: 赵洪武简历
 email: hw.zhao@foxmail.com
 homepage:
-    url: http://cs.cmu.edu/~woden
-    text: cs.cmu.edu/~woden
+    url: https://iminder.github.io/
+    text: 赵洪武的主页
 ---
 # Wode __Ni__
 
