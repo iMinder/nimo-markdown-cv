@@ -6,7 +6,7 @@ homepage:
     url: https://iminder.github.io/
     text: 赵洪武的主页
 ---
-# Wode __Ni__
+# 简历
 
 <!--
 include contact information from the front matter
@@ -17,9 +17,9 @@ Supported arguments:
 -->
 {% include cv-contact.html %}
 
-## Education
+## 教育
 
-### __Carnegie Mellon University__ `2018.9 -`
+### __西安电子科技大学（硕士）__ `2009.08 - 2016.01`
 ```
 Pittsburgh, PA
 ```
