@@ -17,14 +17,14 @@ Supported arguments:
 -->
 {% include cv-contact.html %}
 
-## 教育
+## 基本信息
 
-### __西安电子科技大学（硕士）__ `2009.08 - 2016.01`
+### __西安电子科技大学__ `2009.08 - 2016.01`
 ```
-Pittsburgh, PA
+硕士
 ```
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+- 计算机科学与技术
+- CET6
 
 ### __Columbia University__ `2016.9 - 2018.5`
 ```
