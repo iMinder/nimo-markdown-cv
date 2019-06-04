@@ -1,7 +1,7 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
-email: woden@cs.cmu.edu
+title: 赵洪武简历
+email: hw.zhao@foxmail.com
 homepage:
     url: http://cs.cmu.edu/~woden
     text: cs.cmu.edu/~woden
