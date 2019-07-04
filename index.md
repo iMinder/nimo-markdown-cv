@@ -44,7 +44,7 @@ __Wode Ni\*__, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Cra
 __Wode Ni__.<br> _Dickinson College Honors Theses. Paper 221._<br>
 [[PDF](assets/superres.pdf)]
 
-## 项目经历
+## 工作经历
 
 ### __微云__  `2016.1 - 至今`
 _Research Assistant_<br>
@@ -58,10 +58,14 @@ Worked with prof. Steven Feiner, on __Cyber Affordance Visualization in Augument
 _Software Engineering Intern_<br>
 Worked on server-side web applications and server deployment tools.
 
+### __阿里巴巴B2C__ `2015.6 - 2015.08`
+_实习生_<br>
+在国际B2C无线发展部实习，负责过开发AliExpress iPhone/iPad两个版本开发，完成物品展示详情页扁平化改造，完成“825 大促”相关需求开发，完善自动化打包脚测试。
 
-## 技术
+## 专业技能
 
-Teaching Assistant, __Programming Languages and Translators (COMS 4115)__ `Columbia, 2017 - 2018` <br>
+熟练掌握Objective-C/Swift/C, 了解C++, Javascript,Python
+熟悉iOS开发框架，有多款iOS应用软件开发经验
 Teaching Assistant, __Introduction to Java II (COMP 132)__ `Dickinson, 2016` <br>
 Peer Tutor, __Data Structures and Problem Solving (COMP 232)__ `Dickinson, 2016` <br>
 Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
@@ -69,15 +73,10 @@ Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
 
 ## 荣誉 & 获奖
 
-Phi Beta Kappa `Dickinson, 2018` <br>
-Excellence in Computer Science Award `Columbia, 2018` <br>
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honors `Dickinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society  `Dickinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `Dickinson, 2013` <br>
+腾讯T派移动互联网创新创业大赛金创奖 `2015` <br>
+“创青春”全国移动互联网创业大赛金奖 `2014` <br>
+网易寻找校园合伙人移动应用开发大赛决赛三等奖 `2014` <br>
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2019 -->
