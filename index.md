@@ -24,25 +24,6 @@ Supported arguments:
 - 计算机应用技术(硕士)
 
 ### __CET6__ 
-### __Dickinson College__ `2013.9 - 2016.5`
-```
-Carlisle, PA
-```
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
-
-## Publications
-
-### [__Substance and Style: domain-specific languages for mathematical diagrams__](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
-__Wode Ni\*__, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br>  _Domain-Specific Language Design and Implementation (DSLDI 2017),  co-located with SPLASH._ <br>
-[[PDF](assets/dsldi.pdf)]
-[[slides](assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
-
-### [__Whiteboard Scanning Using Super-Resolution__](http://scholar.dickinson.edu/student_honors/221/)
-__Wode Ni__.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF](assets/superres.pdf)]
 
 ## 工作经历
 
@@ -73,9 +54,9 @@ Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
 
 ## 荣誉 & 获奖
 
-腾讯T派移动互联网创新创业大赛金创奖 `2015` <br>
-“创青春”全国移动互联网创业大赛金奖 `2014` <br>
-网易寻找校园合伙人移动应用开发大赛决赛三等奖 `2014` <br>
+腾讯T派移动互联网创新创业大赛金创奖 `2015.08` <br>
+“创青春”全国移动互联网创业大赛金奖 `2014.09` <br>
+网易寻找校园合伙人移动应用开发大赛决赛三等奖 `2014.08` <br>
 
 <!-- ### Footer
 
