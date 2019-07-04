@@ -32,12 +32,12 @@ _Research Assistant_<br>
 __Penrose__ is a system that automatically visualizes mathematics using two domain-specific languages: __Substance__ and __Style__. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
 
 ### __微云/文档小程序__ `2019.2 - 2017.5`
-_Research Assistant_<br>
+_负责小程序产品相关需求开发_<br>
 Worked with prof. Steven Feiner, on __Cyber Affordance Visualization in Augumented Reality__ project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
 
 ### __腾讯文档__ `2019.5 - 至今`
-_Software Engineering Intern_<br>
-Worked on server-side web applications and server deployment tools.
+_Web需求开发_<br>
+独立完成腾讯文档PDF预览
 
 ### __阿里巴巴B2C__ `2015.6 - 2015.08`
 _实习生_<br>
@@ -45,12 +45,12 @@ _实习生_<br>
 
 ## 专业技能
 
-熟练掌握Objective-C/Swift/C, 了解C++, Javascript,Python
-熟悉iOS开发框架，有多款iOS应用软件开发经验
-Teaching Assistant, __Introduction to Java II (COMP 132)__ `Dickinson, 2016` <br>
-Peer Tutor, __Data Structures and Problem Solving (COMP 232)__ `Dickinson, 2016` <br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
-
+熟练掌握Objective-C/Swift/C, 了解C++, Javascript,Python <br>
+熟悉iOS开发框架，有多款iOS应用软件开发经验 <br>
+熟练使用Swift语言开发iOS应用，熟悉RxSwift及函数响应式编程的基本思想 <br>
+熟悉Objective-C内存管理机制及Runtime、Runloop<br>
+熟悉TCP/IP，HTTP等网络技术 <br>
+有一定Web开发经验 <br>
 
 ## 荣誉 & 获奖
 
