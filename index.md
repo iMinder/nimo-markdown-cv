@@ -47,7 +47,6 @@ _负责腾讯微云项目开发_<br>
 _实习生_<br>
 在国际B2C无线发展部实习，负责过开发AliExpress iPhone/iPad两个版本开发，完成工程工具类整合优化，完成物品展示详情页扁平化改造，完成“825 大促”相关需求开发，完善自动化打包脚测试。
 
----
 ## 专业技能
 
 熟练掌握Objective-C/Swift/C, 了解C++, Javascript,Python <br>
