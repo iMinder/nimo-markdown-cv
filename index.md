@@ -2,10 +2,10 @@
 layout: cv
 title: 赵洪武简历
 email: hw.zhao@foxmail.com
-phone: __13128843489
+phone: __13128843489__
 homepage:
     url: https://iminder.github.io/
-    text: __赵洪武的主页
+    text: 赵洪武的主页
 ---
 # 简历
 
