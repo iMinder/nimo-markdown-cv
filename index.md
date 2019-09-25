@@ -28,17 +28,17 @@ Supported arguments:
 
 ## 工作经历
 
-### __微云__  `2016.1 - 至今`
-_负责腾讯微云项目开发_<br>
-__Penrose__ is a system that automatically visualizes mathematics using two domain-specific languages: __Substance__ and __Style__. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
+### __腾讯文档__ `2019.5 - 至今`
+_Web需求开发_<br>
+独立负责 __腾讯文档PDF在线预览__ 前端开发。预研现有PDF在线预览方案，设计腾讯文档PDF在线预览前后台方案。
 
 ### __微云/文档小程序__ `2019.2 - 2019.5`
 _负责小程序产品相关需求开发_<br>
 完成 __微云QQ小程序__ 50M以内文件下载，剥离并完善下载组件，支持下载任务管理。完成 __文档QQ小程序__ 适配工作，预埋灰度入口，支持AIO消息直接打开文档小程序，支持定向号码投放。
 
-### __腾讯文档__ `2019.5 - 至今`
-_Web需求开发_<br>
-独立完成腾讯文档PDF预览
+### __微云__  `2016.2 - 至今`
+_负责腾讯微云项目开发_<br>
+负责微云多个功能模块开发。
 
 ### __阿里巴巴B2C__ `2015.6 - 2015.08`
 _实习生_<br>
