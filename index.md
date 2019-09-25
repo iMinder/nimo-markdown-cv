@@ -29,12 +29,12 @@ Supported arguments:
 ## 工作经历
 
 ### __微云__  `2016.1 - 至今`
-_Research Assistant_<br>
+_负责腾讯微云项目开发_<br>
 __Penrose__ is a system that automatically visualizes mathematics using two domain-specific languages: __Substance__ and __Style__. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
 
-### __微云/文档小程序__ `2019.2 - 2017.5`
+### __微云/文档小程序__ `2019.2 - 2019.5`
 _负责小程序产品相关需求开发_<br>
-Worked with prof. Steven Feiner, on __Cyber Affordance Visualization in Augumented Reality__ project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
+完成 __微云QQ小程序__ 50M以内文件下载，剥离并完善下载组件，支持下载任务管理。完成 __文档QQ小程序__ 适配工作，预埋灰度入口，支持AIO消息直接打开文档小程序，支持定向号码投放。
 
 ### __腾讯文档__ `2019.5 - 至今`
 _Web需求开发_<br>
@@ -42,7 +42,7 @@ _Web需求开发_<br>
 
 ### __阿里巴巴B2C__ `2015.6 - 2015.08`
 _实习生_<br>
-在国际B2C无线发展部实习，负责过开发AliExpress iPhone/iPad两个版本开发，完成物品展示详情页扁平化改造，完成“825 大促”相关需求开发，完善自动化打包脚测试。
+在国际B2C无线发展部实习，负责过开发AliExpress iPhone/iPad两个版本开发，完成工程工具类整合优化，完成物品展示详情页扁平化改造，完成“825 大促”相关需求开发，完善自动化打包脚测试。
 
 ## 专业技能
 
