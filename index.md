@@ -5,7 +5,7 @@ email: hw.zhao@foxmail.com
 phone: __13128843489__
 
 ---
-# 赵洪武
+# 赵洪武简历
 
 <!--
 include contact information from the front matter
