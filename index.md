@@ -53,9 +53,10 @@ _实习生_<br>
 熟悉iOS开发框架，有多款iOS应用软件开发经验 <br>
 熟练使用Swift语言开发iOS应用，熟悉RxSwift及函数响应式编程的基本思想 <br>
 熟悉Objective-C内存管理机制及Runtime、Runloop<br>
-熟悉TCP/IP，HTTP等网络技术 <br>
+熟悉TCP/IP、HTTP等网络协议  <br>
 有一定Web开发经验 <br>
-
+熟悉Linux网络编程，了解shell脚本语言，有嵌入式项目开发经验 <br>
+熟练使用Git，CocoaPods进行项目管理 <br>
 ## 荣誉 & 获奖
 
 腾讯T派移动互联网创新创业大赛金创奖 `2015.08` <br>
