@@ -52,14 +52,15 @@ _Web开发_<br>
 
 ## 专业技能
 
-熟练掌握Objective-C/Swift/C, 了解C++, Javascript,Python <br>
-熟悉iOS开发框架，有多款iOS应用软件开发经验 <br>
-熟悉Objective-C内存管理机制及Runtime、Runloop<br>
-有一定Web和Go开发经验 <br>
+精通 Objective-C / Swift，熟悉 C++、JavaScript、Python，具备跨语言开发能力。<br>
+深入理解 iOS 开发框架，拥有丰富的 iOS 应用开发经验。<br>
+熟悉 Objective-C 内存管理机制、Runtime、RunLoop，具备底层调优能力。<br>
+具备 Web开发及Go开发经验，能高效实现前后端联动与服务端逻辑开发。<br>
 
 ------
 ## 自我评价
-具有良好的代码规范，对工作积极负责，团队协作意识强。
+代码风格严谨，注重可维护性与规范化，追求高质量交付。<br>
+责任心强，具备良好的团队协作与沟通能力，能高效推动项目落地。<br>
 
 <!-- ### Footer
 
