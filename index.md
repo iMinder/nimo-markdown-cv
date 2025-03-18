@@ -52,7 +52,7 @@ _Web开发_<br>
 
 ## 专业技能
 
-精通 Objective-C / Swift，熟悉 C++、JavaScript、Python，具备跨语言开发能力。<br>
+精通 Objective-C / Swift，了解JavaScript、Python，具备跨语言开发能力。<br>
 深入理解 iOS 开发框架，拥有丰富的 iOS 应用开发经验。<br>
 熟悉 Objective-C 内存管理机制、Runtime、RunLoop，具备底层调优能力。<br>
 具备 Web开发及Go开发经验，能高效实现前后端联动与服务端逻辑开发。<br>
