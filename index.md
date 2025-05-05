@@ -13,6 +13,7 @@ Supported arguments:
     - homepage: url, text
     - phone 13128843489
     - email hw.zhao@foxmail.com
+    - city 深圳
 -->
 {% include cv-contact.html %}
 
