@@ -20,6 +20,7 @@ Supported arguments:
 ## Education
 - Xidian University(Bachelor’s Degree) `2013 - 2016`
 - Xidian University(Master’s Degree) `2009 - 2013`
+------
 ## Work Experience
 
 ### __ByteDance（Senior iOS Developer）__ `Mar 2020 – Present`
@@ -42,22 +43,18 @@ _Minddance For Kids (Prek)_<br>
 
 ------
 ### __Tencent Technology__ `Mar 2016 – Mar 2020 `
-
-####__Weiyun&Tencent Docs_ <br>
-- 
-- Optimized scroll lag in feed/file list via async layout, rendering, and image decompression → FPS: 47 → 56.<br>
-- Hybrid Optimization: H5 offline loading (↓1s), enhanced JSBridge, native-like H5 header → Improved experience<br>
-- Developed iOS extensions, minimized dynamic library footprint for modularized usage → Featured at WWDC 2017<br>
-- CI/CD Enhancements: Automated packaging, code resigning, build cache integration → Build time: 20min → 7min<br>
-- Developed core framework, membership & payment system, H5 load optimizations, Web-based PDF preview → Enhanced user experience.<br>
+- Weiyun&Tencent Docs_ <br>
+    - Optimized scroll lag in feed/file list via async layout, rendering, and image decompression → FPS: 47 → 56.<br>
+    - Hybrid Optimization: H5 offline loading (↓1s), enhanced JSBridge, native-like H5 header → Improved experience<br>
+    - Developed iOS extensions, minimized dynamic library footprint for modularized usage → Featured at WWDC 2017<br>
+    - CI/CD Enhancements: Automated packaging, code resigning, build cache integration → Build time: 20min → 7min<br>
+    - Developed core framework, membership & payment system, H5 load optimizations, Web-based PDF preview → Enhanced user experience.<br>
 
 ------
 
 ### __Alibaba(Intern)__ `May 2015 – Aug 2015 `
-
-####__AliExpress_ <br>
-- 
-- Developed rich media product detail page and promotional cart module → Improved shopping experience.<br>
+- AliExpress_ <br>
+    - Developed rich media product detail page and promotional cart module → Improved shopping experience.<br>
 
 ------
 
