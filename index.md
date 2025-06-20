@@ -43,19 +43,18 @@ _Minddance For Kids (Prek)_<br>
 - Flutter Integration: Hybrid integration for Settings page, encapsulated network/tracking/routing, enabled standalone component debugging & deployment → Boosted efficiency.<br>
 
 ------
-### __Tencent Technology__ `Mar 2016 – Mar 2020 `
-- Weiyun&Tencent Docs <br>
-    - Optimized scroll lag in feed/file list via async layout, rendering, and image decompression → FPS: 47 → 56.<br>
-    - Hybrid Optimization: H5 offline loading (↓1s), enhanced JSBridge, native-like H5 header → Improved experience<br>
-    - Developed iOS extensions, minimized dynamic library footprint for modularized usage → Featured at WWDC 2017<br>
-    - CI/CD Enhancements: Automated packaging, code resigning, build cache integration → Build time: 20min → 7min<br>
-    - Developed core framework, membership & payment system, H5 load optimizations, Web-based PDF preview → Enhanced user experience.<br>
+### __Tencent Technology(Weiyun&Tencent Docs)__ `Mar 2016 – Mar 2020 `
+
+- Optimized scroll lag in feed/file list via async layout, rendering, and image decompression → FPS: 47 → 56.<br>
+- Hybrid Optimization: H5 offline loading (↓1s), enhanced JSBridge, native-like H5 header → Improved experience<br>
+- Developed iOS extensions, minimized dynamic library footprint for modularized usage → Featured at WWDC 2017<br>
+- CI/CD Enhancements: Automated packaging, code resigning, build cache integration → Build time: 20min → 7min<br>
+- Developed core framework, membership & payment system, H5 load optimizations, Web-based PDF preview → Enhanced user experience.<br>
 
 ------
 
-### __Alibaba(Intern)__ `May 2015 – Aug 2015 `
-- AliExpress <br>
-    - Developed rich media product detail page and promotional cart module → Improved shopping experience.<br>
+### __Alibaba(AliExpress/Intern)__ `May 2015 – Aug 2015 `
+- Developed rich media product detail page and promotional cart module → Improved shopping experience.<br>
 
 ------
 
