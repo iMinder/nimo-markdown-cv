@@ -43,7 +43,7 @@ _Minddance For Kids (Prek)_<br>
 
 ------
 ### __Tencent Technology__ `Mar 2016 – Mar 2020 `
-- Weiyun&Tencent Docs_ <br>
+- Weiyun&Tencent Docs <br>
     - Optimized scroll lag in feed/file list via async layout, rendering, and image decompression → FPS: 47 → 56.<br>
     - Hybrid Optimization: H5 offline loading (↓1s), enhanced JSBridge, native-like H5 header → Improved experience<br>
     - Developed iOS extensions, minimized dynamic library footprint for modularized usage → Featured at WWDC 2017<br>
@@ -53,7 +53,7 @@ _Minddance For Kids (Prek)_<br>
 ------
 
 ### __Alibaba(Intern)__ `May 2015 – Aug 2015 `
-- AliExpress_ <br>
+- AliExpress <br>
     - Developed rich media product detail page and promotional cart module → Improved shopping experience.<br>
 
 ------
