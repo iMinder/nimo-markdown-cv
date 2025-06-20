@@ -18,9 +18,8 @@ Supported arguments:
 {% include cv-contact.html %}
 
 ## Education
-### __	Xidian University__ `2009.08 - 2016.01`
-- Xidian University(Bachelor’s Degree)
-- Xidian University(Master’s Degree)
+- Xidian University(Bachelor’s Degree) `2013 - 2016`
+- Xidian University(Master’s Degree) `2009 - 2013`
 ## Work Experience
 
 ### __ByteDance（Senior iOS Developer）__ `Mar 2020 – Present`
