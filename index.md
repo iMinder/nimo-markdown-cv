@@ -71,8 +71,6 @@ _Minddance For Kids (Prek)_<br>
 ### Self-Evaluation
 A responsible and collaborative team player, capable of driving projects efficiently with a strong focus on high-quality delivery.<br>
 
-------
-
 <!-- ### Footer
 
 Last updated: May 2025 -->
