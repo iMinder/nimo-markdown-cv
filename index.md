@@ -43,7 +43,7 @@ _Minddance For Kids (Prek)_<br>
 - Flutter Integration: Hybrid integration for Settings page, encapsulated network/tracking/routing, enabled standalone component debugging & deployment → Boosted efficiency.<br>
 
 ------
-### __Tencent Technology(Weiyun&Tencent Docs)__ `Mar 2016 – Mar 2020 `
+### __Tencent Technology – iOS Developer (Weiyun & Tencent Docs)__  `Mar 2016 – Mar 2020 `
 
 - Optimized scroll lag in feed/file list via async layout, rendering, and image decompression → FPS: 47 → 56.<br>
 - Hybrid Optimization: H5 offline loading (↓1s), enhanced JSBridge, native-like H5 header → Improved experience<br>
@@ -53,7 +53,7 @@ _Minddance For Kids (Prek)_<br>
 
 ------
 
-### __Alibaba(AliExpress/Intern)__ `May 2015 – Aug 2015 `
+### __Alibaba – iOS Intern (AliExpress)__ `May 2015 – Aug 2015 `
 - Developed rich media product detail page and promotional cart module → Improved shopping experience.<br>
 
 ------
