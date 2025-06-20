@@ -59,8 +59,8 @@ _Minddance For Kids (Prek)_<br>
 ------
 
 ### Skill Profile
-- iOS Business Development + Core Architecture (Componentization, Performance Optimization, Core Capabilities)<br>
 - Objective-C/Swift/Web/Go<br>
+- iOS Business Development + Core Architecture (Componentization, Performance Optimization, Core Capabilities)<br>
 
 ------
 
