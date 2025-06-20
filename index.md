@@ -43,7 +43,7 @@ _Minddance For Kids (Prek)_<br>
 ------
 ### __Tencent Technology__ `Mar 2016 – Mar 2020 `
 
-_Weiyun&Tencent Docs_ <br>
+####__Weiyun&Tencent Docs_ <br>
 - 
 - Optimized scroll lag in feed/file list via async layout, rendering, and image decompression → FPS: 47 → 56.<br>
 - Hybrid Optimization: H5 offline loading (↓1s), enhanced JSBridge, native-like H5 header → Improved experience<br>
@@ -55,23 +55,23 @@ _Weiyun&Tencent Docs_ <br>
 
 ### __Alibaba(Intern)__ `May 2015 – Aug 2015 `
 
-_AliExpress_ <br>
+####__AliExpress_ <br>
 - 
 - Developed rich media product detail page and promotional cart module → Improved shopping experience.<br>
 
 ------
 
-## Skill Profile
+### Skill Profile
 - iOS Business Development + Core Architecture (Componentization, Performance Optimization, Core Capabilities)<br>
 - Objective-C / Swift / Web / Go<br>
 ------
-## Achievements
+### Achievements
 - Aug 2015: Gold Prize – T-Park Mobile Internet Innovation & Entrepreneurship Competition.<br>
 - Sep 2014: Gold Prize – "Chuang Qingchun" National University Mobile Internet Entrepreneurship Competition<br>
 
 
 
-## Self-Evaluation
+### Self-Evaluation
 A responsible and collaborative team player, capable of driving projects efficiently with a strong focus on high-quality delivery.<br>
 
 <!-- ### Footer
