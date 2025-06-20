@@ -5,7 +5,7 @@ email: hw.zhao@foxmail.com
 phone: __13128843489__
 
 ---
-# 赵洪武
+# Hongwu Zhao
 
 <!--
 include contact information from the front matter
@@ -13,56 +13,67 @@ Supported arguments:
     - homepage: url, text
     - phone 13128843489
     - email hw.zhao@foxmail.com
-    - city 深圳
+    - city Shenzhen
 -->
 {% include cv-contact.html %}
 
-## 基本信息
-### __西安电子科技大学__ `2009.08 - 2016.01`
-- 计算机科学与技术(本科)
-- 计算机应用技术(硕士)
-## 工作经历
+## Education
+### __	Xidian University__ `2009.08 - 2016.01`
+- Xidian University(Bachelor’s Degree)
+- Xidian University(Master’s Degree)
+## Work Experience
 
-### __字节跳动（iOS高级开发工程师）__ `2020.04 - 至今`
-_TikTok基础能力_<br>
-- 实验框架<br>
-    - iOS实验wift通用框架从0-1，精准曝光&本地分流（特有）&反转实验，支持ABClone&Debug(swift macro)，TikTok 100%实验场景覆盖<br>
-    - 支持动态自更新&异步加载&key粒度缓存，响应速度ms->us级，降低5w卡死/天 <br>
-- 成本&实验防裂化&诊断&归因<br>
-    - 分组增量更新（带宽节约90%）+ 秒级更新（30分钟80%覆盖率）<br>
-    - 实验信息平台，实验自动标记&回收&固化，提升TikTok实验流转效率，节省成本2000W/年
-    - 实验防裂化&实验归因建设，线下问题拦截，线上问题定位小时 -> 15min<br>
-- 稳定性：有限动态热修框架（stinger+libffi)，支持多线程访问&方法拦截&方法替换&返回值等修复，解决线上紧急问题<br>
-- 全面路由：双端统一规范，iOS代码&平台一致性校验（注解&静态AST检测），路由不一致问题75% -> 50%<br>
-
-------
-_字节瓜瓜龙产品开发_<br>
-- 负责瓜瓜龙思维（0-1）：团队搭建（5人），主导架构设计、混编方案、技术方案评审等；业务开发（首页Feed+游戏交互+打分系统等），做到教育类App第二名<br>
-- 负责性能优化(启动&游戏&H5)：二进制重排+无用类治理+启动任务异步打散等，启动优化100ms, 首刷下降300ms; 统一游戏首屏口径（线上线下），引擎预热，资源预装填，优化首屏展示耗时（3s); H5首屏渲染优化（0.8s)
+### __ByteDance（Senior iOS Developer）__ `Mar 2020 – Present`
+- Experiment Suite<br>
+    - iOS Experiment Infrastructure: Built Swift-based A/B testing suite from scratch (precise exposure, local bucketing), supporting tiered caching and async batch reporting → Reduced performance cost from ms to µs, cutting 50K ANRs/day.<br>
+    - Cost Optimization: Group-level incremental updates (↓90% bandwidth), real-time updates (30 min for 80% coverage), and automatic tagging, recycling, and solidification → Saved over ¥20M annually. <br>
+    - Attribution: Offline experiment automation testing, online issue tracing/debugging platform → Reduced troubleshooting time to <15 minutes, improving client stability. <br>
+- Limited Hotfix Framework: Supports multithread protection, method interception/replacement, return value modification → Enables dynamic client issue patching.<br>
+- Routing Framework: Unified endpoint-level consistency (annotation & static checks) and platform-level registration → Ensured consistent navigation across platforms
+- Performance Optimization (Launch & Smoothness)<br>
+    - Launch: Preload decompression + ld64 binary reordering + cold start tuning → Launch time ↓100ms, first screen ↓400ms.<br>
+    - Smoothness: Metrics (e.g., drop3 ↓5ms/s), business collab strategy tuning (defer, async, prefetch, stagger), container-level optimizations (LynxAir).<br>
 
 ------
-### __腾讯__ `2016.03 - 2020.03`
+_Minddance For Kids (Prek)_<br>
+- 0→1 team setup (5–7 members), led iOS framework, homepage, course details, mini-game engine, video-game interactive framework → Enabled rapid iteration.<br>
+- Game analytics pipeline, launch optimization (5s → 3s), texture/image slicing → ↓100MB memory, dynamic FPS scaling (60→30) → Reduced device overheating.<br>
+- Unified H5 tracking, resource prefetch & offline → First screen open rate: 59% → 80%, success rate: 95% → 99%.<br>
+- Flutter Integration: Hybrid integration for Settings page, encapsulated network/tracking/routing, enabled standalone component debugging & deployment → Boosted efficiency.<br>
 
-_微云&腾讯文档_ <br>
+------
+### __Tencent Technology__ `Mar 2016 – Mar 2020 `
+
+_Weiyun&Tencent Docs_ <br>
 - 
-- iOS动态化支付运营预埋：hybrid开发，bridge与原生能力预埋，h5离线加载优化（1.5s), 支付转化率提升10%<br>
-- 上传下载优化：libcurl封装上传下载模块，并发下载、断点续传、失败重试、进度反馈，上传成功率提升1.5%<br>
-- 扩展应用开发：shared framework封装, 微云所有系统扩展（Files/Action/DocPicker），WWDC2017推荐扩展应用<br>
-- 微信&QQ小程序开发：列表&缩略图展示、文档预览与轻文件下载<br>
-- 腾讯文档：端架构重构&会员体系搭建，文档预览首屏渲染优化（0.8s），前端PDF预览支持（手势缩放、文本复制、链接跳转）<br>
+- Optimized scroll lag in feed/file list via async layout, rendering, and image decompression → FPS: 47 → 56.<br>
+- Hybrid Optimization: H5 offline loading (↓1s), enhanced JSBridge, native-like H5 header → Improved experience<br>
+- Developed iOS extensions, minimized dynamic library footprint for modularized usage → Featured at WWDC 2017<br>
+- CI/CD Enhancements: Automated packaging, code resigning, build cache integration → Build time: 20min → 7min<br>
+- Developed core framework, membership & payment system, H5 load optimizations, Web-based PDF preview → Enhanced user experience.<br>
 
 ------
 
+### __Alibaba(Intern)__ `May 2015 – Aug 2015 `
 
-## 专业技能
-业务研发 + 基础架构（组件化/基础能力/性能优化）<br>
-Objective-C/Swift，熟悉Python，具备跨语言开发能力。<br>
-深入理解 iOS 开发框架，拥有丰富的 iOS 应用开发上架经验。<br>
+_AliExpress_ <br>
+- 
+- Developed rich media product detail page and promotional cart module → Improved shopping experience.<br>
 
 ------
-## 自我评价
-代码风格严谨，注重可维护性与规范化，追求高质量交付。<br>
-责任心强，具备良好的团队协作与沟通能力，能高效推动项目落地。<br>
+
+## Skill Profile
+- iOS Business Development + Core Architecture (Componentization, Performance Optimization, Core Capabilities)<br>
+- Objective-C / Swift / Web / Go<br>
+------
+## Achievements
+- Aug 2015: Gold Prize – T-Park Mobile Internet Innovation & Entrepreneurship Competition.<br>
+- Sep 2014: Gold Prize – "Chuang Qingchun" National University Mobile Internet Entrepreneurship Competition<br>
+
+
+
+## Self-Evaluation
+A responsible and collaborative team player, capable of driving projects efficiently with a strong focus on high-quality delivery.<br>
 
 <!-- ### Footer
 
