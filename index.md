@@ -61,11 +61,13 @@ _Minddance For Kids (Prek)_<br>
 ### Skill Profile
 - iOS Business Development + Core Architecture (Componentization, Performance Optimization, Core Capabilities)<br>
 - Objective-C/Swift/Web/Go<br>
+
 ------
 
 ### Achievements
 - Aug 2015: Gold Prize – T-Park Mobile Internet Innovation & Entrepreneurship Competition.<br>
-- Sep 2014: Gold Prize – "Chuang Qingchun" National University Mobile Internet Entrepreneurship Competition.<br>
+- Sep 2014: Gold Prize – "Chuang Qingchun" National University Mobile Internet Entrepreneurship Competition.<br>\
+  
 ------
 
 ### Self-Evaluation
