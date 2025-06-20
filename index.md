@@ -20,7 +20,8 @@ Supported arguments:
 ## Education
 - Xidian University(Bachelor’s Degree) `2013 - 2016`
 - Xidian University(Master’s Degree) `2009 - 2013`
-------
+
+---
 ## Work Experience
 
 ### __ByteDance（Senior iOS Developer）__ `Mar 2020 – Present`
