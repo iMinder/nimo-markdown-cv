@@ -67,8 +67,11 @@ _Minddance For Kids (Prek)_<br>
 - Aug 2015: Gold Prize – T-Park Mobile Internet Innovation & Entrepreneurship Competition.<br>
 - Sep 2014: Gold Prize – "Chuang Qingchun" National University Mobile Internet Entrepreneurship Competition.<br>
 ------
+
 ### Self-Evaluation
 A responsible and collaborative team player, capable of driving projects efficiently with a strong focus on high-quality delivery.<br>
+
+------
 
 <!-- ### Footer
 
